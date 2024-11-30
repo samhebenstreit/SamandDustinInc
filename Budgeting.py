@@ -1,4 +1,4 @@
 import pandas as pd
 from tabula import read_pdf
-import pandas
 
+df = read_pdf("E:\\OneDrive\\Projects\\Dustin_Temp.pdf")
